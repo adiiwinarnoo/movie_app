@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Teravin Application</string>
+    <string name="tittle_movie">Judul Film</string>
+    <string name="release_date">Tanggal</string>
+</resources>
